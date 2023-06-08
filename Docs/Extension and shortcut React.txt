@@ -1,0 +1,7 @@
+1. Es7 React/Redux/GraphQL..........
+
+Shortcut=
+
+rce + tab = Generate code for class components
+rconst + tab = Generate Constructor
+rfce + tab = Generate code for function components
